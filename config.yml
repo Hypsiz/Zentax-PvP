@@ -1,0 +1,4 @@
+# MOTD Config
+motd:
+   # The message showed when you ping the server from the multiplayer menu.
+   system: "&aZentax PvP!"

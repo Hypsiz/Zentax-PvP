@@ -1,0 +1,93 @@
+name: ZentaxPvP
+main: net.hypsiz.zentaxpvp.Main
+version: 0.0.1
+commands:
+   setmotd:
+      usage: /<command>
+      description: Set MOTD
+   coins:
+      usage: /<command>
+   summonp:
+      usage: /<command>
+   get:
+      usage: /<command>
+   report:
+      usage: /<command>
+   read:
+      usage: /<command>
+   stats:
+      usage: /<command>
+   startbroadcast:
+      usage: /<command>
+   stopbroadcast:
+      usage: /<command>
+   gm:
+      usage: /<command>
+   top10:
+      usage: /<command>
+   setwarp:
+      usage: /<command>
+      description: Set a warp.
+   warp:
+      usage: /<command>
+      description: Warp somewhere.
+   delwarp:
+      usage: /<command>
+      description: Delete a warp.
+   ci:
+      usage: /<command>
+      aliases: [clearinventory, clearinv]
+      description: Empty your inventory.
+   freeze:
+      usage: /<command>
+      description: Freeze or Unfreeze players.
+   warn:
+      usage: /<command> <player> <reason>
+      aliases: [w]
+      description: Warn a player.
+   mban:
+      usage: /<command> <player> [message]
+      description: Ban <player> with [message]
+   ignore:
+      usage: /<command> <player>
+      description: Ignore players.
+   reloadConfigs:
+      usage: /<command>
+   reloadMainConfig:
+      usage: /<command>
+   kick:
+      usage: /<command> <player> [message]
+      description: Kick <player> with [message]
+   vanish:
+      usage: /<command>
+      aliases: [v]
+      description: Hide yourself!
+   setspawn:
+      usage: /<command>
+      aliases: [sspawn]
+      description: Set the spawn.
+   spawn:
+      usage: /<command>
+      description: Go to the spawn.
+   vip:
+      usage: /<command>
+   rvip:
+      usage: /<command>
+   helper:
+      usage: /<command>
+   rhelper:
+      usage: /<command>
+   head:
+      usage: /<command>
+   oinv:
+      usage: /<command>
+   1v1:
+      usage: /<command>
+   tpa:
+      usage: /<command>
+   team:
+      usage: /<command>
+   beacon:
+      usage: /<command>
+   mtp:
+      usage: /<command>
